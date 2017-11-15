@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    color: blue;
+}
+
+.menu{
+    color: yellow;
+    background: black;
+}
+
+.active{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+p{
+    color: red;
+}
+
+#text{
+    color: aqua;
+}
+
+[type="text"]{
+    color: red;
+}
+
+a{
+    color: black;
+    text-decoration: solid;
+}
+
+.menu li {
+    color: green;
+}
+
+.menu>li {
+    color: wheat;
+}
+
