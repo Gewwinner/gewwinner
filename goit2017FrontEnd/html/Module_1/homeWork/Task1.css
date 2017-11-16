@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    width: 100%;
+    font-size: 100%;
+    background-color: whitesmoke;
+}
+
+#form{
+    text-align: center;
+    align-content: center;
+    width: 90%;
+    background-color: black;
+    height: 100px;
+}
+
+
+#name{
+    font-size: 150%;
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+#photo_img{
+    width: 15%;
+}
+
+#about{
+}
+
+#feedback{
+
+}
+
